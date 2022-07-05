@@ -29,5 +29,5 @@ After that click #Stack button.<br/>
 Finally different band images will be stacked sucessfully. <br/>
 
 For any assistance: <br/>
-Email at: geospatial.abinash@gmail.com <br/>
+Email at: geospatial.abinash@gmail.com, abinash.silwal@spacegeneration.org <br/>
 
