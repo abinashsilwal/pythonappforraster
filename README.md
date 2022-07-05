@@ -1,16 +1,16 @@
 # Python Application for Raster Clipping and Stacking
 Download pythonAppForRaster.py to your computer and Run. <br/>
-Module needed to Run this code are as follows:
-i. numpy
-ii. shapefile
-iii. matplotlib
-iv. gdal
-v. geopandas
-vi. shapely
-vii. rasterio
-viii. earthpy
-ix. tkinter
-x. earthpy
+Module needed to Run this code are as follows: <br/>
+i) numpy
+ii) shapefile
+iii) matplotlib
+iv) gdal
+v) geopandas
+vi) shapely
+vii) rasterio
+viii) earthpy
+ix) tkinter
+x) earthpy
 
 User Interface: <br/>
 ![image](https://user-images.githubusercontent.com/54283934/177387474-9a88e7e7-1aad-4e62-86e3-4423ab256997.png) <br/>
