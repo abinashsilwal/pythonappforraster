@@ -12,8 +12,8 @@ viii. earthpy
 ix. tkinter
 x. earthpy
 
-User Interface:
-![image](https://user-images.githubusercontent.com/54283934/177387474-9a88e7e7-1aad-4e62-86e3-4423ab256997.png)
+User Interface: <br/>
+![image](https://user-images.githubusercontent.com/54283934/177387474-9a88e7e7-1aad-4e62-86e3-4423ab256997.png) <br/>
 Button Description- <br/>
 Open Raster File: To open the raster image<br/>
 Open Shape File: To open the clipping boundary <br/>
