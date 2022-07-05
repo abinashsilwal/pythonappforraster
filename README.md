@@ -1,5 +1,5 @@
 # Python Application for Raster Clipping and Stacking
-
+Download pythonAppForRaster.py to your computer and Run. <br/>
 Module needed to Run this code are as follows:
 i. numpy
 ii. shapefile
